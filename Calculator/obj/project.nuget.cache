@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZmqdsRSQKoR0PleNqMmwcl8fDPM0DdVlKqeUghuEHLqnLdQexmH3dIRLrrG/0bm5SNxxOA9z2pJ5bfDo+Z0TA==",
+  "success": true,
+  "projectFilePath": "/home/tom/Desktop/Calculator/Calculator/Calculator.csproj",
+  "expectedPackageFiles": [
+    "/home/tom/.nuget/packages/ensure.that/10.1.0/ensure.that.10.1.0.nupkg.sha512",
+    "/home/tom/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/tom/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/tom/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
